@@ -1,0 +1,26 @@
+D:\formation .net\Module C#\Exercice cours\ExoListeDictionnaire\GestionStock\bin\Debug\netcoreapp3.1\GestionStock.exe
+D:\formation .net\Module C#\Exercice cours\ExoListeDictionnaire\GestionStock\bin\Debug\netcoreapp3.1\GestionStock.deps.json
+D:\formation .net\Module C#\Exercice cours\ExoListeDictionnaire\GestionStock\bin\Debug\netcoreapp3.1\GestionStock.runtimeconfig.json
+D:\formation .net\Module C#\Exercice cours\ExoListeDictionnaire\GestionStock\bin\Debug\netcoreapp3.1\GestionStock.runtimeconfig.dev.json
+D:\formation .net\Module C#\Exercice cours\ExoListeDictionnaire\GestionStock\bin\Debug\netcoreapp3.1\GestionStock.dll
+D:\formation .net\Module C#\Exercice cours\ExoListeDictionnaire\GestionStock\bin\Debug\netcoreapp3.1\GestionStock.pdb
+D:\formation .net\Module C#\Exercice cours\ExoListeDictionnaire\GestionStock\obj\Debug\netcoreapp3.1\GestionStock.csprojAssemblyReference.cache
+D:\formation .net\Module C#\Exercice cours\ExoListeDictionnaire\GestionStock\obj\Debug\netcoreapp3.1\GestionStock.AssemblyInfoInputs.cache
+D:\formation .net\Module C#\Exercice cours\ExoListeDictionnaire\GestionStock\obj\Debug\netcoreapp3.1\GestionStock.AssemblyInfo.cs
+D:\formation .net\Module C#\Exercice cours\ExoListeDictionnaire\GestionStock\obj\Debug\netcoreapp3.1\GestionStock.csproj.CoreCompileInputs.cache
+D:\formation .net\Module C#\Exercice cours\ExoListeDictionnaire\GestionStock\obj\Debug\netcoreapp3.1\GestionStock.dll
+D:\formation .net\Module C#\Exercice cours\ExoListeDictionnaire\GestionStock\obj\Debug\netcoreapp3.1\GestionStock.pdb
+D:\formation .net\Module C#\Exercice cours\ExoListeDictionnaire\GestionStock\obj\Debug\netcoreapp3.1\GestionStock.genruntimeconfig.cache
+D:\Inti\Exercice_dictionnaire\ExoListeDictionnaire\GestionStock\bin\Debug\netcoreapp3.1\GestionStock.exe
+D:\Inti\Exercice_dictionnaire\ExoListeDictionnaire\GestionStock\bin\Debug\netcoreapp3.1\GestionStock.deps.json
+D:\Inti\Exercice_dictionnaire\ExoListeDictionnaire\GestionStock\bin\Debug\netcoreapp3.1\GestionStock.runtimeconfig.json
+D:\Inti\Exercice_dictionnaire\ExoListeDictionnaire\GestionStock\bin\Debug\netcoreapp3.1\GestionStock.runtimeconfig.dev.json
+D:\Inti\Exercice_dictionnaire\ExoListeDictionnaire\GestionStock\bin\Debug\netcoreapp3.1\GestionStock.dll
+D:\Inti\Exercice_dictionnaire\ExoListeDictionnaire\GestionStock\bin\Debug\netcoreapp3.1\GestionStock.pdb
+D:\Inti\Exercice_dictionnaire\ExoListeDictionnaire\GestionStock\obj\Debug\netcoreapp3.1\GestionStock.csprojAssemblyReference.cache
+D:\Inti\Exercice_dictionnaire\ExoListeDictionnaire\GestionStock\obj\Debug\netcoreapp3.1\GestionStock.AssemblyInfoInputs.cache
+D:\Inti\Exercice_dictionnaire\ExoListeDictionnaire\GestionStock\obj\Debug\netcoreapp3.1\GestionStock.AssemblyInfo.cs
+D:\Inti\Exercice_dictionnaire\ExoListeDictionnaire\GestionStock\obj\Debug\netcoreapp3.1\GestionStock.csproj.CoreCompileInputs.cache
+D:\Inti\Exercice_dictionnaire\ExoListeDictionnaire\GestionStock\obj\Debug\netcoreapp3.1\GestionStock.dll
+D:\Inti\Exercice_dictionnaire\ExoListeDictionnaire\GestionStock\obj\Debug\netcoreapp3.1\GestionStock.pdb
+D:\Inti\Exercice_dictionnaire\ExoListeDictionnaire\GestionStock\obj\Debug\netcoreapp3.1\GestionStock.genruntimeconfig.cache
